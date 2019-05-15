@@ -553,7 +553,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Wherever you go - violin" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Wherever you go - violin2" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="94.42546008" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="2794696">
 				<waveblock start="0">
