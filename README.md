@@ -4,3 +4,4 @@ Music for Pianola
 # Modified 13:25
 # Modified 13:29
 # Changes from laptop
+# New changes to capture on GUI
