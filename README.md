@@ -7,6 +7,3 @@ Music for Pianola
 <<<<<<< HEAD
 # Modified 16:40 2019-06-09
 Added new line to track changes
-=======
-# New changes to capture on GUI
->>>>>>> df97f65f76ae4a6d99dc2a7c2fac31440e92422f
